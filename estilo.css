@@ -1,6 +1,6 @@
 body{
     background: #212529;
-    font-family: "arial";
+    font-family: "arial", sans-serif;
 }
 .media{
     width: 50%;
